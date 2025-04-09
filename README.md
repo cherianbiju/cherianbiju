@@ -11,6 +11,9 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cherianbiju&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+
+![snake gif](https://github.com/cherianbiju/cherianbiju/blob/output/github-snake-dark.svg)
+
 ### # Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
