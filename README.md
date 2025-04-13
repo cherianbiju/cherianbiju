@@ -14,8 +14,6 @@
 
 ![snake gif](https://github.com/cherianbiju/cherianbiju/blob/output/github-snake-dark.svg)
 
-### # Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=cherianbiju&icon=0&color=0)](https://visitcount.itsvg.in)
