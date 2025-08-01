@@ -1,5 +1,5 @@
 #  About Me:
-<br>LEARNER @ Machinelearning 
+<br>LEARNER @ datascience 
 
 
 ## 🌐 Socials:
