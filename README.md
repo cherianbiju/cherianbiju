@@ -1,14 +1,11 @@
 #  About Me:
-<br>LEARNER @ datascience 
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cherian-biju-45b067227)
-
+<br>LEARNER @ datascience |  Aspiring Data Analyst
 
 Email: cherianbiju52@gmail.com
 
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cherian-biju-45b067227)
 
 
 # 💻 Tech Stack:
