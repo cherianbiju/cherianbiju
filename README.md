@@ -46,6 +46,6 @@ Always building. Always learning.
 ---
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=cherianbiju&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cherianbiju&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cherianbiju&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="160" />
 </p>
-
