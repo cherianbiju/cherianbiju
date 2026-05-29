@@ -61,13 +61,4 @@ Always building. Always learning.
 
 ---
 
-## 🚀 *Top Projects*
-
-| Project | Description | Tech |
-|---|---|---|
-| [🛒 NaviCart — Smart Shopping Cart](https://github.com/cherianbiju/NAVICART-smart-shopping-cart-) | Autonomous cart that follows users in real time with obstacle avoidance | Python · YOLO · OpenCV · ESP32 |
-| [⭐ Product Review Rating Predictor](https://github.com/cherianbiju/Full-Stack-Automated-Review-Rating-System-) | End-to-end NLP pipeline predicting rating from reviews | BERT · LSTM · Streamlit |
-| [🤖 RAG Chatbot](https://github.com/cherianbiju/RAG_chatbot) | AI-powered legal search assistant for BNS 2023 | LangChain · Pinecone · Ollama |
-
----
 
