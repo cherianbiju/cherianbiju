@@ -45,7 +45,13 @@ Always building. Always learning.
 
 ---
 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cherianbiju&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cherianbiju&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cherianbiju&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cherianbiju&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cherianbiju&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cherianbiju&theme=tokyonight&utcOffset=5.5" />
 </p>
