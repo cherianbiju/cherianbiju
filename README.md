@@ -1,9 +1,8 @@
 # 🌠 Cherian Biju
 **`AI/ML Engineer`**
 
-I'm an AI/ML engineer with a B.Tech in Artificial Intelligence & Data Science, specialising in NLP, computer vision, and generative AI. <br/>
-Comfortable across the full ML stack — data, training, and deployment. <br/>
-Working with PyTorch, LangChain, Hugging Face, FastAPI, and AWS. <br/>
+I'm an AI/ML engineer with a B.Tech in Artificial Intelligence & Data Science. <br/>
+Comfortable across the full AI/ML stack — data, training, and deployment. <br/>
 Always building. Always learning.
 
    <p align="left">
