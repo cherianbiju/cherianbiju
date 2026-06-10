@@ -1,7 +1,7 @@
 # 🌠 Cherian Biju
 **`AI/ML Engineer`**
 
-AI/ML Engineer | Data Science, RAG, Agentic AI & MLOps <br/>
+AI/ML Engineer | Data Science, RAG & MLOps <br/>
 Comfortable across the full AI/ML stack — data, training, and deployment. <br/>
 Always building. Always learning.
 
