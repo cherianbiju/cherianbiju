@@ -1,7 +1,7 @@
 # 🌠 Cherian Biju
 **`AI/ML Engineer`**
 
-I'm an AI/ML engineer with a B.Tech in Artificial Intelligence & Data Science. <br/>
+AI/ML Engineer | Data Science, RAG, Agentic AI & MLOps <br/>
 Comfortable across the full AI/ML stack — data, training, and deployment. <br/>
 Always building. Always learning.
 
