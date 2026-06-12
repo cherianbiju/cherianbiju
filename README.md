@@ -62,9 +62,6 @@ Always building. Always learning. <br/>
 
 ---
 
-![Cherian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cherianbiju&show_icons=true&theme=tokyonight)
-
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=cherianbiju&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cherianbiju&layout=compact&theme=tokyonight&hide=jupyter%20notebook)
