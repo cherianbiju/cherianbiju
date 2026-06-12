@@ -3,7 +3,9 @@
 
 AI/ML Engineer | Data Science, RAG & MLOps <br/>
 Comfortable across the full AI/ML stack — data, training, and deployment. <br/>
-Always building. Always learning.
+Always building. Always learning. <br/>
+
+💼 Open to: AI/ML Engineer roles | Gen AI | Computer Vision
 
 <p align="left">
    <a href="https://linkedin.com/in/cherian-biju">
@@ -59,5 +61,7 @@ Always building. Always learning.
 
 ---
 
+![Cherian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cherianbiju&show_icons=true&theme=tokyonight)
 
 
+![GitHub Streak](https://streak-stats.demolab.com?user=cherianbiju&theme=tokyonight)
