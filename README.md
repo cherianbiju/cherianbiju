@@ -5,7 +5,7 @@ AI/ML Engineer | Data Science, RAG & MLOps <br/>
 Comfortable across the full AI/ML stack — data, training, and deployment. <br/>
 Always building. Always learning. <br/>
 
-🚀 Currently building: AI agents & production RAG systems
+🚀 Currently building: AI agents & production RAG systems <br/>
 💼 Open to: AI/ML Engineer roles | Gen AI | Computer Vision
 
 <p align="left">
