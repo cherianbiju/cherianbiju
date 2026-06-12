@@ -66,3 +66,5 @@ Always building. Always learning. <br/>
 
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=cherianbiju&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cherianbiju&layout=compact&theme=tokyonight&hide=jupyter%20notebook)
