@@ -13,7 +13,7 @@ Always building. Always learning. <br/>
       <img alt="LinkedIn" title="Connect on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=005885"/></a>
    <a href="mailto:cherianbiju52@gmail.com">
       <img alt="Gmail" title="Send me an email" src="https://custom-icon-badges.demolab.com/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=B23121"/></a>
-   <a href="https://drive.google.com/file/d/1LDI9D60tTyVzDZmPpUfd_fiec52hfoxN/view?usp=sharing">
+   <a href="https://drive.google.com/file/d/1EPM7zuY2VyQWhi79QfHJw44WLNBsRT89/view?usp=sharing">
       <img alt="Resume" title="View my Resume" src="https://custom-icon-badges.demolab.com/badge/Resume-4285F4?style=for-the-badge&logo=file-text&logoColor=white&labelColor=2563EB"/></a>
 </p>
 
